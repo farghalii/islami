@@ -1,16 +1,40 @@
-# islamy_app
+# Islamy App
 
-A new Flutter project.
+**Islamy** is a Flutter application that offers essential Islamic features through a clean and user-friendly interface.
 
-## Getting Started
+## 🕌 Features
 
-This project is a starting point for a Flutter application.
+- 📖 **Holy Quran** – Browse and read all Surahs.
+- 📜 **Hadith** – Access a collection of authentic Hadiths.
+- 📻 **Live Radio** – Listen to Islamic radio streaming.
+- 🕒 **Prayer Times** – View accurate prayer times based on your location.
+- 🧮 **Sebha** – Use the digital Tasbih counter.
+- 🔍 **Search** – Quickly find Surahs and Hadiths.
+- 🕰️ **Recent** – Access your most recently viewed content.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📖 Quran Tab
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/islamy_screens/qurantab.jpg" alt='image' width="200" height="400">
+
+### 🕰️ Most Recent
+<img src="assets/islamy_screens/most_recent.jpg" alt='image' width="200" height="400">
+### 🔍 Search
+<img src="assets/islamy_screens/search.jpg" alt='image' width="200" height="400">
+### 📜 Hadith
+
+<img src="assets/islamy_screens/hadith.jpg" alt='image' width="200" height="400">
+### 🧮 Sebha
+
+<img src="assets/islamy_screens/sebha1.jpg" alt='image' width="200" height="400">
+
+<img src="assets/islamy_screens/sebha2.jpg" alt='image' width="200" height="400">
+
+### 📻 Radio
+
+<img src="assets/islamy_screens/radio.jpg" alt='image' width="200" height="400">
+
+### 🕒 Prayer Times
+
+<img src="assets/islamy_screens/time.jpg" alt='image' width="200" height="400">
