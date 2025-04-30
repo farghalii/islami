@@ -20,11 +20,14 @@
 
 ### 🕰️ Most Recent
 <img src="assets/islamy_screens/most_recent.jpg" alt='image' width="200" height="400">
+
 ### 🔍 Search
 <img src="assets/islamy_screens/search.jpg" alt='image' width="200" height="400">
+
 ### 📜 Hadith
 
 <img src="assets/islamy_screens/hadith.jpg" alt='image' width="200" height="400">
+
 ### 🧮 Sebha
 
 <img src="assets/islamy_screens/sebha1.jpg" alt='image' width="200" height="400">
